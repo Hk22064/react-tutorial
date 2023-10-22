@@ -2,9 +2,9 @@ export default function Footer() {
     return (
       <footer className="footer">
         <div className="content has-text-centered">
-          <p>Dog images are retrieved from Dog API</p>
+          <p>これはフッターです</p>
           <p>
-            <a href="https://dog.ceo/dog-api/about">Donate to Dog API</a>
+            <a href="https://github.com/Hk22064">My github page</a>
           </p>
         </div>
       </footer>
